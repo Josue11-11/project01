@@ -1,0 +1,101 @@
+body{
+    margin: 15px 20px;
+    background-color: rgba(212, 210, 210, 0.747);
+}
+#contenedor{
+    background-image: url(imagenes/fondo.jpg);
+    padding: 20px;
+}
+#cabeza img{
+    border-radius: 50%;
+}
+#cabeza{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px;
+    border-bottom: solid;
+}
+.titulo{
+    color: rgb(33, 129, 238);
+    background-color: white;
+    text-shadow: 2px 10px 7px rgb(105, 105, 105);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+}
+.identidades{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    font-size: 35px;
+}
+.letras1{
+    font-size: 25px;
+}
+.definidos{
+    border: solid black;
+    display: flex;
+    justify-content: space-between;
+    border-width: 5px;
+}
+.achetml{
+    color: white;
+    background-color: orangered;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+}
+#aches{
+    background-color: white;
+    padding:1px;
+    margin: 10px;
+    border: solid grey;
+    flex: 1;
+}
+.seces{
+    color: white;
+    background-color: rgb(5, 60, 209);
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+}
+.explicacion{
+    margin: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+.javes{
+     color: white;
+    background-color: rgb(53, 146, 34);
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+}
+.logo1{
+    width: 100px;
+    margin: 0 auto;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#casitas img{
+    width: 450px;
+    box-shadow: 20px 20px 20px black;
+    margin: 20px auto;
+    display: block;
+}
+#casitas{
+    border-bottom: solid;
+    padding-bottom: 20px;
+}
+.aches2{
+    border: solid gray;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+}
+.explicacion2{
+    margin: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
